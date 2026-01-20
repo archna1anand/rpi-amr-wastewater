@@ -4,7 +4,7 @@ A small, reproducible toolkit to compute the **Resistance Persistence Index (RPI
 
 RPI is designed as a **surveillance prioritization** score that integrates:
 
-- **Risk** (e.g., Zhang rank / pathogen association)
+- **Risk** (e.g., Zhang rank as per Zhang et al 2021 Nature Communications / pathogen association) with two additional features namely
 - **Persistence** across time/conditions (e.g., wet vs dry seasonal stability)
 - **Mobility** (e.g., plasmid-associated annotation)
 
@@ -71,7 +71,7 @@ If you already have risk ranks (e.g., `zhang_rank`), the script will use them.
 ## What to cite
 
 If you use this in a paper, include:
-- Your manuscript citation (preferred)
+- Hajkowski et al 2025 preprint (preferred)
 - This repository (CITATION.cff)
 
 ---
