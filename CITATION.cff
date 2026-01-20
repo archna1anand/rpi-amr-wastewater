@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+title: "RPI Toolkit: Resistance Persistence Index for wastewater AMR prioritization"
+authors:
+  - family-names: "Anand"
+    given-names: "Archana"
+date-released: 2026-01-19
+license: MIT
+repository-code: "https://github.com/<your-org-or-username>/rpi-toolkit"
+keywords:
+  - antimicrobial resistance
+  - wastewater
+  - metagenomics
+  - surveillance
+  - risk prioritization

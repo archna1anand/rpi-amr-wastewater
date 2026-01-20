@@ -1,0 +1,301 @@
+gene_name,sample_name,season,resistance_mechanism,rpm
+AAC(6')-Ib7,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic inactivation,0.4
+ANT(3'')-II-AAC(6')-IId bifunctional protein,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic inactivation,10.93
+ANT(6)-Ia,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic inactivation,12.87
+AxyY,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic efflux,14.67
+Bifidobacterium adolescentis rpoB mutants conferring resistance to rifampicin,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic target alteration; antibiotic target replacement,37.87
+Bifidobacterium bifidum ileS conferring resistance to mupirocin,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic target alteration,5.4
+ErmU,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic target alteration,0.0
+ErmX,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic target alteration,0.13
+FRI-9,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic inactivation,0.0
+IND-15,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic inactivation,0.0
+MexF,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic efflux,14.33
+QnrS6,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic target protection,0.87
+TMB-2,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic inactivation,0.0
+TxR,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic efflux,0.0
+aadA6,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic inactivation,2.47
+ceoB,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic efflux,3.2
+cmlA9,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic efflux,211.69
+dfrB4,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic target replacement,0.07
+mphE,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic inactivation,71.81
+msrE,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic target protection,55.94
+oqxB,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic efflux,0.0
+qacL,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic efflux,28.74
+rpoB2,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic target alteration; antibiotic target replacement,16.07
+sul2,Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic target replacement,138.55
+tet(39),Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic efflux,192.42
+tet(D),Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic efflux,0.0
+tet(G),Influent_WWTP_1_24_24_MH1_S480,wet,antibiotic efflux,161.75
+AAC(2')-IIa,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+AAC(3)-IId,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,3.21
+AAC(3)-VIIIa,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+AAC(3)-VIa,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+AAC(6')-IIa,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.4
+AAC(6')-Ib-cr5,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.41
+AAC(6')-Ib-cr6,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+AAC(6')-Ib10,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+AAC(6')-Ib7,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,20.85
+AAC(6')-Iih,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+AAC(6')-Isa,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+ACT-64,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+ADC-254,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+ANT(2'')-Ia,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.2
+ANT(3'')-II-AAC(6')-IId bifunctional protein,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,6.02
+ANT(3'')-IIa,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,12.03
+ANT(3'')-IIb,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.4
+ANT(3'')-IIc,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+ANT(6)-Ia,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+APH(2'')-Ig,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+APH(3'')-Ib,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,15.64
+APH(3')-IIIa,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.81
+APH(3')-IIb,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.2
+APH(3')-IVa,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.4
+APH(3')-Ia,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,4.41
+APH(3')-Ib,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.2
+APH(3')-VIa,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+APH(6)-Id,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,27.27
+AQU-1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.4
+AQU-2,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.81
+AQU-3,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+AcrF,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,6.82
+AcrS,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,1.6
+ArnT,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,4.41
+AxyY,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,11.23
+BAT-1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+BES-1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,4.01
+Bifidobacterium adolescentis rpoB mutants conferring resistance to rifampicin,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration; antibiotic target replacement,32.89
+Bifidobacterium bifidum ileS conferring resistance to mupirocin,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,2.81
+BlaB-16,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+CARB-14,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.41
+CARB-16,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+CARB-5,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,10.83
+CARB-51,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+CMY-8b,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.01
+CPS-1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+CRP,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,6.82
+CRP-1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+CblA-1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+CfxA4,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,7.62
+CfxA6,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,16.84
+EC-19,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+EC-5,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+EC-8,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+Enterobacter cloacae acrA,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,2.01
+EreD,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.01
+Erm(38),Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,0.0
+ErmB,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,5.61
+ErmF,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,6.42
+ErmG,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,0.8
+Escherichia coli UhpT with mutation conferring resistance to fosfomycin,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,0.0
+Escherichia coli acrA,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.8
+Escherichia coli emrE,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,1.6
+Escherichia coli mdfA,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.8
+FONA-3,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+FOX-12,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.2
+FOX-13,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+FOX-14,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.2
+FOX-16,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,3.61
+FOX-2,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+FOX-3,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.41
+FOX-4,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.6
+FOX-5,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,6.42
+FOX-9,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.01
+GES-3,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+GES-9,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.41
+GIL-1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+GOB-35,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+H-NS,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,3.61
+ICR-Mo,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,55.34
+IMI-5,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+IND-6,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+KPC-2,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+KPC-34,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,17.65
+Klebsiella pneumoniae KpnG,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,1.6
+Klebsiella pneumoniae KpnH,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,3.61
+Klebsiella pneumoniae OmpK37,Influent_WWTP_2_1_24_MH1_S340,wet,reduced permeability to antibiotic,0.0
+Klebsiella pneumoniae acrA,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.8
+LCR-1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.4
+LHK-6,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.41
+LRA-17,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+LUT-5,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+LnuH,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+LpeA,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.0
+LpsB,Influent_WWTP_2_1_24_MH1_S340,wet,reduced permeability to antibiotic,0.0
+LptD,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,3.21
+MCR-3.17,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,2.41
+MCR-3.19,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,4.81
+MCR-3.32,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,1.2
+MCR-3.33,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,0.8
+MCR-3.34,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,0.0
+MCR-3.35,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,0.0
+MCR-3.37,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,0.0
+MCR-3.6,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,4.81
+MCR-4.3,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,0.8
+MCR-5.1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,4.81
+MCR-5.3,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,0.0
+MCR-9.1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,0.0
+MOX-11,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.2
+MOX-13,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,4.81
+MOX-14,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.2
+MOX-5,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.6
+MOX-6,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.6
+MOX-9,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,47.72
+MYX-1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+MdtK,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,1.6
+Mef(En2),Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,4.41
+MexB,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,14.44
+MexF,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,18.05
+MexK,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,9.63
+MexV,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.0
+MexW,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,8.82
+Mrx,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,14.44
+MuxB,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,11.63
+MuxC,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,17.65
+NPS-1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.6
+OXA-10,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,8.82
+OXA-118,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.2
+OXA-12,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.4
+OXA-2,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,10.43
+OXA-205,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.2
+OXA-211,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.2
+OXA-224,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,3.61
+OXA-333,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,3.61
+OXA-347,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+OXA-372,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+OXA-47,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.6
+OXA-498,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+OXA-5,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.4
+OXA-504,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+OXA-641,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.6
+OXA-643,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+OXA-650,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+OXA-651,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.2
+OXA-662,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.41
+OXA-724,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+OXA-726,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,6.02
+OXA-729,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+OXA-780,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,12.03
+OXA-896,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.01
+OXA-912,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.01
+OXA-917,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,26.47
+OXA-97,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.4
+OmpA,Influent_WWTP_2_1_24_MH1_S340,wet,reduced permeability to antibiotic,6.02
+OpmB,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.0
+OprM,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,1.2
+OprN,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,2.81
+PAM-3,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+PDC-402,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+PER-3,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+PFM-1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+PNGM-1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+PmpM,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.4
+QnrB5,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target protection,0.0
+QnrB60,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target protection,0.0
+QnrS2,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target protection,18.05
+QnrVC5,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target protection,0.8
+R39,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+ROB-13,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+RSA-1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+RSA-2,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+RUB-1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+SAT-2,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.6
+SAT-4,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.4
+SGM-2,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+SHV-167,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+Staphylococcus aureus mupA conferring resistance to mupirocin,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,0.0
+Streptococcus agalactiae mprF,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,0.0
+TEM-185,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+TEM-70,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+TLA-1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+TLA-3,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+TRU-1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+TolC,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,4.81
+TriC,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.0
+VEB-1,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,8.02
+VEB-10,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+VEB-14,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+VIM-61,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+YojI,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,3.21
+aad(6),Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.01
+aadA10,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,3.61
+aadA11,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,3.21
+aadA12,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.4
+aadA16,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.6
+aadA17,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.6
+aadA2,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.2
+aadA22,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+aadA27,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.6
+aadA5,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.6
+aadA6,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,5.21
+aadA8,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.0
+aadA8b,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,3.61
+aadS,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,3.21
+acrB,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,20.85
+acrD,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,10.03
+adeF,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.0
+adeI,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.8
+adeJ,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,10.83
+adeK,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.8
+almG,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,0.0
+arr-2,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+arr-3,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.01
+bacA,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,1.6
+baeR,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.8
+baeS,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,2.81
+catB3,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,8.42
+catB8,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+catI,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.41
+cfrC,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,0.0
+clbB,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,0.0
+cmlA5,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,3.21
+cmlA6,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.0
+cmlA9,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.8
+cph,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.4
+cphA2,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+cphA4,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.2
+cphA5,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.01
+cphA6,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.2
+cphA7,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.01
+cphA8,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.4
+cpxA,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,2.81
+dfrA14,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target replacement,6.02
+dfrA16,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target replacement,0.8
+dfrA17,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target replacement,0.8
+dfrA3,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target replacement,1.2
+dfrF,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target replacement,0.8
+emrK,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.0
+emrR,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,2.01
+emrY,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.8
+eptB,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,1.6
+erm(32),Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target alteration,0.0
+evgS,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,1.6
+fusD,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target protection,0.0
+imiH,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,1.2
+imiS,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.01
+kdpE,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,1.2
+leuO,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,1.2
+lnuB,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,0.8
+lnuC,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,2.81
+lsaE,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target protection,2.41
+macB,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,2.81
+marA,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux; reduced permeability to antibiotic,0.8
+mdeA,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.0
+mdsB,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,3.61
+mdtA,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,2.41
+mdtB,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,8.82
+mdtC,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,2.81
+mdtE,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,1.6
+mdtF,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,5.21
+mdtG,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.8
+mdtH,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,0.4
+mdtN,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,1.6
+mdtO,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,4.01
+mef(B),Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,1.6
+mefC,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,20.05
+mefJ,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,5.61
+mel,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic target protection,16.04
+mexQ,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,4.01
+mexY,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic efflux,5.21
+mphA,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,14.04
+mphE,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,52.54
+mphG,Influent_WWTP_2_1_24_MH1_S340,wet,antibiotic inactivation,5.21
